@@ -1,4 +1,4 @@
-# Text Editor README
+# Text Editor
 
 ## Overview
 
